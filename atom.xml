@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-12-22T08:27:02.718Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My First Blog</title>
+    <link href="http://example.com/2020/12/22/My-First-Blog/"/>
+    <id>http://example.com/2020/12/22/My-First-Blog/</id>
+    <published>2020-12-22T08:25:56.000Z</published>
+    <updated>2020-12-22T08:27:02.718Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="No-1"><a href="#No-1" class="headerlink" title="No.1"></a>No.1</h4><p>A new blog was created with curiosity,Get some of Daniel’s tutorials from CSDN, and you’re ready to create it. Some problems were encountered in the process, which were solved by QQ group communication and Baidu’s various search. Some new knowledge was learned, such as the use of GIT and the methods to deal with problems. Thank you very much for the excellent service provided by this platform, and also thank my friends who helped me in the process of creation.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;No-1&quot;&gt;&lt;a href=&quot;#No-1&quot; class=&quot;headerlink&quot; title=&quot;No.1&quot;&gt;&lt;/a&gt;No.1&lt;/h4&gt;&lt;p&gt;A new blog was created with curiosity,Get some of Daniel’s tut</summary>
+      
+    
+    
+    
+    
+    <category term="year" scheme="http://example.com/tags/year/"/>
+    
+  </entry>
+  
+</feed>
